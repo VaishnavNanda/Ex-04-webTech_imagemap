@@ -17,7 +17,7 @@ Define your components pages and create content in such a way that it gives info
 Include pictures and contents for your subpages in Repository file
 
 # Code:
-###Main HTML File
+### Main HTML File
 t.html
 ```
 
